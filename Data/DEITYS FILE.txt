@@ -1,0 +1,28 @@
+Erastil LG God of farming, hunting, trade, family Animal, Community, Good, Law, Plant longbow
+Iomedae LG Goddess of valor, rulership, justice, honor Glory, Good, Law, Sun, War longsword
+Torag LG God of the forge, protection, strategy Artifice, Earth, Good, Law, Protection warhammer
+Sarenrae NG Goddess of the sun, redemption, Fire, Glory, Good, Healing, Sun scimitar
+honesty, healing
+Shelyn NG Goddess of beauty, art, love, music Air, Charm, Good, Luck, Protection glaive
+Desna CG Goddess of dreams, stars, travelers, luck Chaos, Good, Liberation, Luck, Travel starknife
+Cayden Cailean CG God of freedom, ale, wine, bravery Chaos, Charm, Good, Strength, Travel rapier
+Abadar LN God of cities, wealth, merchants, law Earth, Law, Nobility, Protection, Travel light crossbow
+Irori LN God of history, knowledge, self-perfection Healing, Knowledge, Law, Rune, Strength unarmed strike
+Gozreh N Deity of nature, weather, the sea Air, Animal, Plant, Water, Weather trident
+Pharasma N Goddess of fate, death, prophecy, birth Death, Healing, Knowledge, Repose, Water dagger
+Nethys N God of magic Destruction, Knowledge, Magic, quarterstaff
+Protection, Rune
+Gorum CN God of strength, battle, weapons Chaos, Destruction, Glory, Strength, War greatsword
+Calistria CN Goddess of trickery, lust, revenge Chaos, Charm, Knowledge, Luck, Trickery whip
+Asmodeus LE God of tyranny, slavery, pride, contracts Evil, Fire, Law, Magic, Trickery mace
+Zon-Kuthon LE God of envy, pain, darkness, loss Darkness, Death, Destruction, Evil, Law spiked chain
+Urgathoa NE Goddess of gluttony, disease, undeath Death, Evil, Magic, Strength, War scythe
+Norgorber NE God of greed, secrets, poison, murder Charm, Death, Evil, Knowledge, Trickery short sword
+Lamashtu CE Goddess of madness, monsters, nightmares Chaos, Evil, Madness, Strength, Trickery falchion
+Rovagug CE God of wrath, disaster, destruction Chaos, Destruction, Evil, War, Weather greataxe
+
+Portfolios:
+
+Domains:
+
+Favored Weapon:
