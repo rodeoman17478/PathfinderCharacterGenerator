@@ -1,0 +1,48 @@
+
+
+Error log timestamp Sunday 08/26/18 02:25:46 PM
+
+Runtime error: File F:\JUST_BASIC_DEV\_JustBasic Dev 2018\Pathfinder RPG\Pathfinder Dungeon Masters Toolbox\Dice_Roller_8.21.2018\DiceRoller2.0\Images\Up.bmp not found.
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'File F:\JUST_BASIC_D...'> 
+BasicRunProgram(Object)>>error: <'File F:\JUST_BASIC_D...'> 
+BasicRunProgram(BasicProgram)>>terminateRun: <anError> 
+[] in BasicProgram>>errorHandlerBlock
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <anError> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <anError> 
+ExceptionHandler>>findHandler: <anError> 
+Error(Exception)>>activateHandler: <anExceptionHandler> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'File F:\JUST_BASIC_D...'> 
+BasicRunProgram(Object)>>error: <'File F:\JUST_BASIC_D...'> 
+BasicRunProgram(BasicProgram)>>runError: <'File F:\JUST_BASIC_D...'> 
+BasicRunProgram(BasicProgram)>>bmpFromFile: <'Images\Up.bmp'> 
+[] in LibDrawnButton class>>program:handle:itemHandle:contents:return:corner:xRef:yRef:
+[] in BasicRunProgram>>begin
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anError class> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anError class> do: <aBlockClosure> 
+BasicRunProgram>>begin
+BasicRunProgram(BasicProgram)>>run
+BasicOnDemandCompiler class>>readTknFile: <'F:\JUST_BASIC_DEV\_J...'> callingProgram: <anUndefinedObject> commandLine: <''> 
+Basic class>>start
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
